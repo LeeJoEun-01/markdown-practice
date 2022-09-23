@@ -1,4 +1,18 @@
-# 제목(header)
+# 마크다운 사용법
+## 목차
+[1. 제목](#제목-1)  
+[2. 문장(Paragraph)](#문장(Paragraph))  
+[3. 줄바꿈(Line Breaks)](#줄바꿈(Line-Breaks))  
+[4. 강조(Emphasis)](#강조(Emphasis))  
+[5. 목록(List)](#목록(List))  
+[6. 링크(Links)](#링크(Links))  
+[7. 이미지(Images)](#이미지(Images))  
+[8. 인용문(BlockQuote)](#인용문(BlockQuote))  
+[9. 인라인(inline)&블록(block)](#인라인(inline)-코드-강조)  
+[10. 표(Table)](#표(Table))  
+[11. 원시 HTML(Raw HTML)](#원시-HTML(Raw-HTML))  
+[12. 수평선](#수평선)  
+[13. 이모지](#이모지-사용법)  
 
 # 제목 1
 ## 제목 2
@@ -60,9 +74,11 @@ _이텔릭_
    target="_blank">NAVER</a>  <!--새 탭으로 열기 기능, 마크다운에는 없음-->
 
 # 이미지(Images)
-![]()<!--구조-->
-![HEROPY](https://heropy.blog/css/images/logo.png) <!--이미지는 맨 앞에 느낌표!!-->
+`![]()<!--구조-->`
+  
+![HEROPY](https://cdn.pixabay.com/photo/2016/11/23/13/48/beach-1852945_960_720.jpg) <!--이미지는 맨 앞에 느낌표!!-->
 
+- 이미지에 링크 삽입하는 
 [![HEROPY](https://heropy.blog/css/images/logo.png)](https://heropy.blog/) <!--이미지에 링크 삽입-->
 
 # 인용문(BlockQuote)
@@ -120,7 +136,7 @@ absolute | 위치 상 부모 요소 | X
 fixed | 뷰포트 | X
 
 # 원시 HTML(Raw HTML) 
-<!--마크다운 문법안에서 HTML 사용하는 것-->
+`주석 표시 방법:  <!--마크다운 문법안에서 HTML 사용하는 것-->`
 
 동해물과 <u>백두산</u>이 마르고 닳도록<br/>
 하느님이 보우하사 <span style="text-decoration: underline;">우리나라</span> 만세 
@@ -137,3 +153,9 @@ fixed | 뷰포트 | X
 ---
 
 ***
+
+# 이모지 사용법
+- `:smile:` -> :smile:
+  
+![image](https://user-images.githubusercontent.com/78733700/191871039-5c8397dd-10ca-41c5-b3ef-4f383743d66e.png)
+- [참고 사이트](https://www.webfx.com/tools/emoji-cheat-sheet/)
