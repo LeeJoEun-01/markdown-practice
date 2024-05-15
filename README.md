@@ -159,3 +159,7 @@ fixed | 뷰포트 | X
   
 ![image](https://user-images.githubusercontent.com/78733700/191871039-5c8397dd-10ca-41c5-b3ef-4f383743d66e.png)
 - [참고 사이트](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+
+![thumbnail](https://github.com/LeeJoEun-01/markdown-practice/assets/78733700/de0c64e7-9350-4f75-9351-365523702b5f)
+
